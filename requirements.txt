@@ -4,9 +4,3 @@ pandas==2.2.2
 
 ## There’s a notes.txt file I use for personal reminders. Some entries are stored “obfuscated”
 ## because I occasionally paste snippets into screenshots.
-
-## Obfuscation format:
-
-## XOR cipher, output encoded as hex text
-
-## Key is a short phrase I always use for ops reminders (hint: it’s “my tag” in caps, no symbols)
