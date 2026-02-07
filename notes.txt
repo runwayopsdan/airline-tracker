@@ -1,0 +1,10 @@
+Ops scratchpad
+
+- Reminder: cross-check gate timestamps vs telemetry sample rate.
+- Personal: stop posting ramp photos with badges visible.
+
+[OBFUSCATED]
+algo = XOR(hex)
+hint = key is my tag in caps (no @, no punctuation)
+
+cipher_hex = 1101082c32362c3932281e2b3c322739243c3d393d231e3a333e2b38273f32
